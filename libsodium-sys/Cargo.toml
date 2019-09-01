@@ -9,6 +9,7 @@ links = "sodium"
 name = "libsodium-sys"
 repository = "https://github.com/sodiumoxide/sodiumoxide.git"
 categories = ["cryptography", "api-bindings"]
+# Don't forget to create a new `version.h` file. See issue #370.
 version = "0.2.3"
 
 [badges]
